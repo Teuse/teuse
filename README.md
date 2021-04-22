@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Metrics](https://github.com/Teuse/teuse/blob/main/github-metrics.svg)
+
 <!--
 **Teuse/teuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
